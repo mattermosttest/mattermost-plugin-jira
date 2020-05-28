@@ -144,7 +144,7 @@ The ship target dates are included below. These are subject to change:
 ### Jira 2.0 Features
 
 Below is a full list of features scheduled for v2.0.
-
+asdds
 - Send notifications for issue events from Jira to Mattermost with full JQL support, using webhooks. Restricted to Jira System Admins only.
    - This includes notifications for the following events: issue created; issue transitioned to “Reopened”, “In Progress”, "Submitted" or “Resolved”; issue deleted or closed; comments created, updated or deleted; assignee updated
 - Create Jira issues via Mattermost UI (Desktop App and browser only)
