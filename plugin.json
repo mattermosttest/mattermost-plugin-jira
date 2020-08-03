@@ -1,7 +1,7 @@
 {
   "id": "jira",
   "name": "Jira",
-  "description": "Atlassian Jira plugin for Mattermost.",
+  "description": "Atlassian Jiraaaa plugin for Mattermost.",
   "homepage_url": "https://github.com/mattermost/mattermost-plugin-jira",
   "support_url": "https://github.com/mattermost/mattermost-plugin-jira/issues",
   "icon_path": "assets/icon.svg",
