@@ -3,6 +3,7 @@ CURL ?= $(shell command -v curl 2> /dev/null)
 MANIFEST_FILE ?= plugin.json
 MM_UTILITIES_DIR ?= ../mattermost-utilities
 
+
 MINIMUM_SUPPORTED_GO_MAJOR_VERSION = 1
 MINIMUM_SUPPORTED_GO_MINOR_VERSION = 12
 export GO111MODULE=on
